@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 function NavBar() {
   return (
     <div>
+        <nav>
    <AppBar position="static">
         <Toolbar>
     <Typography>
@@ -21,7 +22,7 @@ function NavBar() {
     </Typography>
     </Toolbar>
      </AppBar>
-
+     </nav>
     </div>
   );
 }
