@@ -18,7 +18,7 @@
         "img": "https://cdn.pixabay.com/photo/2018/08/31/09/35/baby-shoes-3644176_960_720.jpg"
     },
     "sandals":{
-        "name": "Kids Shoes",
+        "name": "Slippers",
         "img": "https://cdn.pixabay.com/photo/2019/02/26/20/41/flip-flops-4022891_960_720.png"
     },
     "men_slipper":{
@@ -30,7 +30,7 @@
         "img": "https://cdn.pixabay.com/photo/2015/03/08/18/55/sandal-664538_960_720.jpg"
     },
     "men_dressshoes":{
-        "name": "Mens Sandals",
+        "name": "Mens Elegant",
         "img": "https://cdn.pixabay.com/photo/2020/02/28/10/44/shoes-4887100_960_720.jpg"
     }
     
