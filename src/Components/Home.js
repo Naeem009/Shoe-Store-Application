@@ -9,7 +9,9 @@ function Home() {
         Different varities, occassional, seasonal and functional shoes are available for our valued customers at affordable price.
         <br/><br/>Secure payment method.<br/><br/>
         Attractive Designs.<br/><br/>
-        Easy Return Policy
+        Easy Return Policy.<br/><br/>
+        Fast Deliveries Across The Country
+        
 
       </h5>
 
