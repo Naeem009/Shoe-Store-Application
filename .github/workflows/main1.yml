@@ -38,6 +38,9 @@ jobs:
          CI: false
     
     # Runs a set of commands using the runners shell
+    - name: Installing AppBar
+      run: npm install @material-ui/core/AppBar --save
+
     - name: Installing Surge
       run: npm install --global surge
    
